@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: MOVIMENTO'S CORNER
-datePublished: '2016-06-24T13:04:13.175Z'
-dateModified: '2016-06-24T13:03:08.348Z'
+datePublished: '2016-06-24T13:18:22.766Z'
+dateModified: '2016-06-24T13:06:18.771Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-24-movimentos-corner.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-24-movimentos-corner.md
 url: movimentos-corner/index.html
 _type: Article
 
