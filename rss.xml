@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MOVIMENTO]]></title>
         <description><![CDATA[MOVIMENTO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/movimento/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 13:04:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 13:18:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/movimento/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c6eb139-0526-4fda-8643-766064c44318.jpg">]]></description>
-            <link>undefinedmovimentos-corner/index.html</link>
+            <link>https://thegrid.ai/movimento/movimentos-corner/index.html</link>
             <guid isPermaLink="false">c63e85b6-6bf2-49e0-b646-44670a59a901</guid>
-            <pubDate>Fri, 24 Jun 2016 13:04:13 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2016 13:18:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
