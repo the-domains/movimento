@@ -2,6 +2,7 @@ name: MOVIMENTO
 favicon: null
 layout_spectrum: 0.49891
 typography_spectrum: 0.26019
+title: MOVIMENTO
 cta:
   domain: null
   bucket: null
